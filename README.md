@@ -1,9 +1,10 @@
 <div align="center">
 
 # Hi, I'm Souad Zriouil 👋
-### AI Engineer | Data Scientist | Machine Learning & NLP Enthusiast
+### AI Engineer | Data Scientist | NLP & LLM Enthusiast
 
-**Morocco** · Master's in Artificial Intelligence
+**Master's in Artificial Intelligence**  
+Based in **Morocco** 🇲🇦
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Souad%20Zriouil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souad-zriouil-54b19b267/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souadzriouil02@gmail.com)
@@ -14,38 +15,40 @@
 
 ## About Me
 
-I am an **AI Engineer and Data Science graduate** passionate about designing intelligent systems that solve real-world problems.  
-My work focuses on **machine learning, NLP, LLM-based applications, multi-agent systems, and data-driven solutions**.
+I am passionate about building **AI-powered systems** that create real value.  
+My interests include **Machine Learning, NLP, Large Language Models, intelligent automation, and data-driven applications**.
 
-I enjoy building projects that combine **technical depth**, **practical impact**, and **clear user value**.
+I enjoy transforming ideas into practical solutions through well-structured, impactful, and user-focused projects.
 
-- Master's degree in **Artificial Intelligence**
-- Strong interest in **AI systems, NLP, and LLM applications**
-- Experience in **data analysis, automation, and intelligent applications**
-- Passionate about transforming ideas into **useful and scalable solutions**
-- Based in **Morocco** and open to **remote opportunities**
+---
+
+## Core Skills
+
+- **Artificial Intelligence & Machine Learning**
+- **Natural Language Processing**
+- **LLM Applications & RAG Systems**
+- **Data Analysis & Visualization**
+- **Automation & Intelligent Workflows**
+- **Python & SQL Development**
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### AI / Machine Learning
+**AI / Data**  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-7F77DD?style=flat-square&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=chainlink&logoColor=white)
-
-### Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### Tools & Platforms
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -53,58 +56,37 @@ I enjoy building projects that combine **technical depth**, **practical impact**
 
 ---
 
-## Featured Projects
+## Highlighted Projects
 
 ### 🌱 AI Agent for Pesticide Recommendation
-**Multi-agent AI system for smart agriculture**
-
-Designed an intelligent multi-agent system that analyzes agricultural inputs and supports pesticide recommendations with a structured AI-driven workflow.
-
-**Tech:** `Python` `Multi-Agent Systems` `AI`
-
----
+A multi-agent AI system designed to support smart agriculture by generating structured pesticide recommendations from crop-related inputs.
 
 ### 💬 RAG Chatbot System
-**Retrieval-Augmented Generation assistant**
-
-Built a document-aware chatbot that combines semantic search and LLM generation to provide relevant, grounded, and context-aware responses.
-
-**Tech:** `Python` `LLMs` `Vector Search` `NLP`
-
----
+A retrieval-augmented chatbot built to deliver relevant and grounded responses using semantic search and LLM generation.
 
 ### 📱 Android Decision Support App
-**Mobile AI-powered field assistant**
-
-Developed an Android application integrating interactive maps, Firebase, and AI-based logic to support users in field decision-making scenarios.
-
-**Tech:** `Android` `Firebase` `Google Maps API` `AI`
+A mobile application integrating maps, Firebase, and AI features to support decision-making in real-world field environments.
 
 ---
 
-## What I’m Working On
+## Current Focus
 
-- Building intelligent applications with **LLMs and multi-agent systems**
-- Exploring **automation workflows** and AI-powered assistants
-- Developing projects that combine **AI, data, and real-world usability**
+- Multi-agent AI systems  
+- LLM-powered applications  
+- NLP and intelligent assistants  
+- Data-driven project development  
 
 ---
 
-## Let's Connect
+## Contact
 
-I am open to opportunities in:
+I am open to **AI Engineer**, **Data Scientist**, and **Machine Learning** opportunities.
 
-- **AI Engineering**
-- **Data Science**
-- **Machine Learning**
-- **NLP / LLM Projects**
-- **Freelance and Remote Collaboration**
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souad-zriouil-54b19b267/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souadzriouil02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Souad%20Zriouil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souad-zriouil-54b19b267/)
+[![Email](https://img.shields.io/badge/Email-souadzriouil02%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souadzriouil02@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>Made with care by Souad Zriouil 🤍</sub>
+  <sub>Thanks for visiting my profile ✨</sub>
 </div>
