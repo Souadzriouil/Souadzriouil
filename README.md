@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Souad Zriouil
 
-<!--
-**Souadzriouil/Souadzriouil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Engineer  
+💡 Passionate about Artificial Intelligence, Machine Learning & Data Analytics  
+📍 Morocco  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Master’s in Artificial Intelligence  
+- 🤖 Specialized in AI systems, NLP & LLMs  
+- 📊 Experience in Data Analysis & Visualization  
+- 💻 Building intelligent applications and automation systems  
+
+---
+
+## 🛠️ Skills
+
+- Programming: Python, SQL  
+- Data: Power BI, Pandas, NumPy  
+- AI/ML: Machine Learning, NLP, LLMs  
+- Tools: Git, Docker, Streamlit  
+
+---
+
+## 📂 Featured Projects
+
+🔹 **AI Agent for Pesticide Recommendation**  
+Multi-agent AI system for smart agriculture recommendations  
+
+🔹 **RAG Chatbot System**  
+Semantic search + LLM-based intelligent assistant  
+
+🔹 **Android Decision Support App**  
+Mobile app with maps, Firebase, and AI integration  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: souadzriouil02@gmail.com  
+- 💼 LinkedIn: (add your link here)
+
+---
+
+⭐ *Open to opportunities in AI, Data Science, and Machine Learning*
