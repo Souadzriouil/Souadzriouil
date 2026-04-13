@@ -14,17 +14,19 @@
 
 ## About Me
 
-I am an **AI Engineer and Data professional** with a strong foundation in **Artificial Intelligence, Data Science, Data Analysis, and Data Engineering**.
+I am an **AI Engineer and Data professional** with expertise across **Artificial Intelligence, Data Science, Data Engineering, and Data Analysis**.
 
-I design and build intelligent systems that combine **machine learning, NLP, LLMs, and data pipelines** to solve real-world problems.
+I design and build intelligent systems that combine **machine learning, NLP, LLMs, data pipelines, and analytics** to solve real-world problems and generate business value.
 
-I am passionate about transforming raw data into **actionable insights** and building scalable AI-driven solutions.
+I am passionate about transforming data into **insights, automation, and scalable AI solutions**.
 
 - Master's degree in **Artificial Intelligence**
-- Strong interest in **AI systems, NLP, and LLM applications**
-- Experience in **data analysis, ETL processes, and data pipelines**
-- Skilled in building **end-to-end data & AI solutions**
-- Based in **Morocco** and open to **remote opportunities**
+- Specialized in **Machine Learning, NLP, and LLM-based systems**
+- Experience in **Data Engineering (ETL, pipelines) and Data Analysis**
+- Strong ability to build **end-to-end AI & Data solutions**
+- Based in **Morocco**
+
+🚀 **Open to full-time roles, freelance projects, and research collaborations**
 
 ---
 
@@ -32,12 +34,13 @@ I am passionate about transforming raw data into **actionable insights** and bui
 
 - 🤖 Artificial Intelligence & Machine Learning  
 - 🧠 Natural Language Processing (NLP)  
-- 🔗 LLM Applications & RAG Systems  
+- 🔗 LLM Applications (RAG, Prompt Engineering)  
+- 🧩 Multi-Agent Systems & AI Automation  
 - ⚙️ Data Engineering & ETL Pipelines  
 - 📊 Data Analysis & Business Intelligence  
 - 📈 Data Visualization & Dashboarding  
-- 🧩 Multi-Agent Systems & Automation  
 - 🗄️ SQL & Database Management  
+- 🌐 API Integration & Automation Workflows  
 
 ---
 
@@ -52,21 +55,27 @@ I am passionate about transforming raw data into **actionable insights** and bui
 
 ### AI / Machine Learning / NLP
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-7F77DD?style=flat-square&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF5733?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2ECC71?style=flat-square)
 
 ---
 
-### Data Engineering & Analytics
+### Data Engineering & Databases
 ![ETL](https://img.shields.io/badge/ETL-FF5733?style=flat-square)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-34495E?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-### Data Visualization
+### Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
@@ -77,6 +86,8 @@ I am passionate about transforming raw data into **actionable insights** and bui
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-Automation-FF6D00?style=flat-square)
+![Dify](https://img.shields.io/badge/Dify-LLM%20Apps-6366F1?style=flat-square)
 
 ---
 
@@ -130,20 +141,18 @@ Developed an Android application integrating interactive maps, Firebase, and AI-
 - LLM-powered applications & RAG systems  
 - Data pipelines & ETL workflows  
 - AI-driven automation systems  
-- Data analytics & visualization projects  
+- Data analytics & visualization  
 
 ---
 
 ## Let's Connect
 
-I am open to opportunities in:
+I am open to:
 
-- **AI Engineering**
-- **Data Science**
-- **Data Engineering**
-- **Data Analysis**
-- **Machine Learning**
-- **NLP / LLM Projects**
+- 💼 Full-time opportunities  
+- 🧑‍💻 Freelance projects  
+- 🔬 Research collaborations  
+- 🤝 AI & Data partnerships  
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souad-zriouil-54b19b267/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souadzriouil02@gmail.com)
