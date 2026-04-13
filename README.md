@@ -1,47 +1,38 @@
-# 👋 Hi, I'm Souad Zriouil
-
-🎓 AI & Data Science Engineer  
-💡 Passionate about Artificial Intelligence, Machine Learning & Data Analytics  
-📍 Morocco  
+# Souad Zriouil
+**AI & Data Science Engineer** · Morocco
+`Master's in AI` `NLP & LLMs` `Data Analytics`
 
 ---
 
-## 🚀 About Me
+## Skills
 
-- 🎓 Master’s in Artificial Intelligence  
-- 🤖 Specialized in AI systems, NLP & LLMs  
-- 📊 Experience in Data Analysis & Visualization  
-- 💻 Building intelligent applications and automation systems  
-
----
-
-## 🛠️ Skills
-
-- Programming: Python, SQL  
-- Data: Power BI, Pandas, NumPy  
-- AI/ML: Machine Learning, NLP, LLMs  
-- Tools: Git, Docker, Streamlit  
+| Domain | Technologies |
+|---|---|
+| Programming | Python, SQL |
+| Data | Power BI, Pandas, NumPy |
+| AI / ML | Machine Learning, NLP, LLMs |
+| Tools | Git, Docker, Streamlit |
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-🔹 **AI Agent for Pesticide Recommendation**  
-Multi-agent AI system for smart agriculture recommendations  
+**AI Agent for Pesticide Recommendation**
+Multi-agent AI system delivering smart agriculture recommendations through coordinated autonomous agents.
 
-🔹 **RAG Chatbot System**  
-Semantic search + LLM-based intelligent assistant  
+**RAG Chatbot System**
+Intelligent assistant combining semantic search with a large language model for contextual, document-grounded responses.
 
-🔹 **Android Decision Support App**  
-Mobile app with maps, Firebase, and AI integration  
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: souadzriouil02@gmail.com  
-- 💼 LinkedIn: (add your link here)
+**Android Decision Support App**
+Mobile application integrating maps, Firebase, and AI to guide decision-making in the field.
 
 ---
 
-⭐ *Open to opportunities in AI, Data Science, and Machine Learning*
+## Contact
+
+- Email: [souadzriouil02@gmail.com](mailto:souadzriouil02@gmail.com)
+- LinkedIn: *(add your link here)*
+
+---
+
+> Open to opportunities in AI, Data Science, and Machine Learning
