@@ -1,88 +1,104 @@
 <div align="center">
 
 # Hi, I'm Souad Zriouil 👋
-### AI & Data Science Engineer
+### AI Engineer | Data Scientist | Machine Learning & NLP Enthusiast
 
 **Morocco** · Master's in Artificial Intelligence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Souad%20Zriouil-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souad-zriouil-54b19b267/)
-[![Email](https://img.shields.io/badge/Email-souadzriouil02%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:souadzriouil02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Souad%20Zriouil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souad-zriouil-54b19b267/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souadzriouil02@gmail.com)
 
 </div>
 
 ---
 
-## About me
+## About Me
 
-I'm an AI & Data Science Engineer passionate about building intelligent systems that solve real-world problems. My work spans multi-agent architectures, NLP pipelines, and data-driven applications — always with a focus on clarity, performance, and impact.
+I am an **AI Engineer and Data Science graduate** passionate about designing intelligent systems that solve real-world problems.  
+My work focuses on **machine learning, NLP, LLM-based applications, multi-agent systems, and data-driven solutions**.
 
-- 🎓 Master's degree in Artificial Intelligence
-- 🤖 Specialized in AI systems, NLP & LLMs
-- 📊 Experienced in data analysis & visualization
-- 💡 Building intelligent applications and automation systems
-- 🌍 Based in Morocco · Open to remote opportunities
+I enjoy building projects that combine **technical depth**, **practical impact**, and **clear user value**.
+
+- Master's degree in **Artificial Intelligence**
+- Strong interest in **AI systems, NLP, and LLM applications**
+- Experience in **data analysis, automation, and intelligent applications**
+- Passionate about transforming ideas into **useful and scalable solutions**
+- Based in **Morocco** and open to **remote opportunities**
 
 ---
 
-## Tech stack
+## Tech Stack
 
-**Languages**
-
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**AI & Machine Learning**
-
+### AI / Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-7F77DD?style=flat-square&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=chainlink&logoColor=white)
 
-**Data & Visualization**
-
+### Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Tools**
-
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-## Featured projects
+## Featured Projects
 
 ### 🌱 AI Agent for Pesticide Recommendation
-> Multi-agent AI system for smart agriculture
+**Multi-agent AI system for smart agriculture**
 
-Coordinated autonomous agents that analyze crop data and deliver precise, data-driven pesticide recommendations — helping farmers make smarter decisions.
+Designed an intelligent multi-agent system that analyzes agricultural inputs and supports pesticide recommendations with a structured AI-driven workflow.
 
-`Python` `Multi-agent` `AI`
+**Tech:** `Python` `Multi-Agent Systems` `AI`
 
 ---
 
 ### 💬 RAG Chatbot System
-> Retrieval-Augmented Generation assistant
+**Retrieval-Augmented Generation assistant**
 
-An intelligent chatbot combining semantic vector search with LLM inference to deliver accurate, document-grounded responses. Built for enterprise knowledge management.
+Built a document-aware chatbot that combines semantic search and LLM generation to provide relevant, grounded, and context-aware responses.
 
-`Python` `LLMs` `Vector Search` `NLP`
+**Tech:** `Python` `LLMs` `Vector Search` `NLP`
 
 ---
 
 ### 📱 Android Decision Support App
-> Mobile AI-powered field assistant
+**Mobile AI-powered field assistant**
 
-Android application integrating interactive maps, Firebase real-time sync, and AI logic to guide users through complex decisions in the field.
+Developed an Android application integrating interactive maps, Firebase, and AI-based logic to support users in field decision-making scenarios.
 
-`Android` `Firebase` `Maps` `AI`
+**Tech:** `Android` `Firebase` `Google Maps API` `AI`
 
 ---
 
-## Let's connect
+## What I’m Working On
 
-I'm open to opportunities in **AI Engineering**, **Data Science**, and **Machine Learning** — full-time, freelance, or research collaborations.
+- Building intelligent applications with **LLMs and multi-agent systems**
+- Exploring **automation workflows** and AI-powered assistants
+- Developing projects that combine **AI, data, and real-world usability**
+
+---
+
+## Let's Connect
+
+I am open to opportunities in:
+
+- **AI Engineering**
+- **Data Science**
+- **Machine Learning**
+- **NLP / LLM Projects**
+- **Freelance and Remote Collaboration**
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souad-zriouil-54b19b267/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souadzriouil02@gmail.com)
@@ -90,5 +106,5 @@ I'm open to opportunities in **AI Engineering**, **Data Science**, and **Machine
 ---
 
 <div align="center">
-<sub>Made with care · Souad Zriouil · Morocco</sub>
+  <sub>Made with care by Souad Zriouil 🤍</sub>
 </div>
